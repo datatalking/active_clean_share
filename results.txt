@@ -1,0 +1,552 @@
+[ActiveClean Real] Accuracy  50 0.787851389117
+[ActiveClean Real] Accuracy  100 0.787851389117
+[ActiveClean Real] Accuracy  150 0.773549235575
+[ActiveClean Real] Accuracy  200 0.787440407694
+[ActiveClean Real] Accuracy  250 0.801167187243
+[ActiveClean Real] Accuracy  300 0.798536906132
+[ActiveClean Real] Accuracy  350 0.796481999014
+[ActiveClean Real] Accuracy  400 0.812428078251
+[ActiveClean Real] Accuracy  450 0.810701956272
+[ActiveClean Real] Accuracy  500 0.810290974848
+[ActiveClean Real] Accuracy  550 0.815058359362
+[ActiveClean Real] Accuracy  600 0.816126911064
+[ActiveClean Real] Accuracy  650 0.823113595265
+[ActiveClean Real] Accuracy  700 0.818428407036
+[ActiveClean Real] Accuracy  750 0.822209436133
+[ActiveClean Real] Accuracy  800 0.826976820648
+[ActiveClean Real] Accuracy  850 0.827963176064
+[ActiveClean Real] Accuracy  900 0.828867335196
+[ActiveClean Real] Accuracy  950 0.833388130856
+[ActiveClean Real] Accuracy  1000 0.836593785961
+[ActiveClean Real] Accuracy  1050 0.83519644912
+[ActiveClean Real] Accuracy  1100 0.83848430051
+[ActiveClean Real] Accuracy  1150 0.847854676969
+[ActiveClean Real] Accuracy  1200 0.844320236725
+[ActiveClean Real] Accuracy  1250 0.847032714121
+[ActiveClean Real] Accuracy  1300 0.851553509781
+[ActiveClean Real] Accuracy  1350 0.85656748315
+[ActiveClean Real] Accuracy  1400 0.857225053428
+[ActiveClean Real] Accuracy  1450 0.855170146309
+[ActiveClean Real] Accuracy  1500 0.85812921256
+[ActiveClean Real] Accuracy  1550 0.850813743219
+[ActiveClean Real] Accuracy  1600 0.851717902351
+[ActiveClean Real] Accuracy  1650 0.856074305441
+[ActiveClean Real] Accuracy  1700 0.856731875719
+[ActiveClean Real] Accuracy  1750 0.862239026796
+[ActiveClean Real] Accuracy  1800 0.861992437942
+[ActiveClean Real] Accuracy  1850 0.866595429887
+[ActiveClean Real] Accuracy  1900 0.866513233602
+[ActiveClean Real] Accuracy  1950 0.861910241657
+[ActiveClean Real] Accuracy  2000 0.864622719053
+[ActiveClean Real] Accuracy  2050 0.86108827881
+[ActiveClean Real] Accuracy  2100 0.862896597074
+[ActiveClean Real] Accuracy  2150 0.864293933914
+[ActiveClean Real] Accuracy  2200 0.8654446819
+[ActiveClean Real] Accuracy  2250 0.865115896761
+[ActiveClean Real] Accuracy  2300 0.866842018741
+[ActiveClean Real] Accuracy  2350 0.867910570442
+[ActiveClean Real] Accuracy  2400 0.864869307907
+[ActiveClean Real] Accuracy  2450 0.869390103567
+[ActiveClean Real] Accuracy  2500 0.870623047838
+[ActiveClean Real] Accuracy  2550 0.866513233602
+[ActiveClean Real] Accuracy  2600 0.867746177873
+[ActiveClean Real] Accuracy  2650 0.869472299852
+[ActiveClean Real] Accuracy  2700 0.868485944435
+[ActiveClean Real] Accuracy  2750 0.869636692422
+[ActiveClean Real] Accuracy  2800 0.872924543811
+[ActiveClean Real] Accuracy  2850 0.871445010686
+[ActiveClean Real] Accuracy  2900 0.874568469505
+[ActiveClean Real] Accuracy  2950 0.87169159954
+[ActiveClean Real] Accuracy  3000 0.873499917804
+[ActiveClean Real] Accuracy  3050 0.872760151241
+[ActiveClean Real] Accuracy  3100 0.874075291797
+[ActiveClean Real] Accuracy  3150 0.871445010686
+[ActiveClean Real] Accuracy  3200 0.873910899227
+[ActiveClean Real] Accuracy  3250 0.873746506658
+[ActiveClean Real] Accuracy  3300 0.874075291797
+[ActiveClean Real] Accuracy  3350 0.872102580963
+[ActiveClean Real] Accuracy  3400 0.872020384679
+[ActiveClean Real] Accuracy  3450 0.878102909748
+[ActiveClean Real] Accuracy  3500 0.87308893638
+[ActiveClean Real] Accuracy  3550 0.873910899227
+[ActiveClean Real] Accuracy  3600 0.872924543811
+[ActiveClean Real] Accuracy  3650 0.876458984054
+[ActiveClean Real] Accuracy  3700 0.874075291797
+[ActiveClean Real] Accuracy  3750 0.875390432352
+[ActiveClean Real] Accuracy  3800 0.873006740095
+[ActiveClean Real] Accuracy  3850 0.875883610061
+[ActiveClean Real] Accuracy  3900 0.874321880651
+[ActiveClean Real] Accuracy  3950 0.875226039783
+[ActiveClean Real] Accuracy  4000 0.869472299852
+[ActiveClean Real] Accuracy  4050 0.873582114088
+[ActiveClean Real] Accuracy  4100 0.873664310373
+[ActiveClean Real] Accuracy  4150 0.868321551866
+[ActiveClean Real] Accuracy  4200 0.87325332895
+[ActiveClean Real] Accuracy  4250 0.874075291797
+[ActiveClean Real] Accuracy  4300 0.875554824922
+[ActiveClean Real] Accuracy  4350 0.877527535755
+[ActiveClean Real] Accuracy  4400 0.875883610061
+[ActiveClean Real] Accuracy  4450 0.876623376623
+[ActiveClean Real] Accuracy  4500 0.873993095512
+[ActiveClean Real] Accuracy  4550 0.876787769193
+[ActiveClean Real] Accuracy  4600 0.871445010686
+[ActiveClean Real] Accuracy  4650 0.874568469505
+[ActiveClean Real] Accuracy  4700 0.873006740095
+[ActiveClean Real] Accuracy  4750 0.872102580963
+[ActiveClean Real] Accuracy  4800 0.865855663324
+[ActiveClean Real] Accuracy  4850 0.871116225547
+[ActiveClean Real] Accuracy  4900 0.874239684366
+[ActiveClean Real] Accuracy  4950 0.875472628637
+[ActiveClean Real] Accuracy  5000 0.877445339471
+[ActiveClean Real] Accuracy  5050 0.875965806346
+[ActiveClean Real] Accuracy  5100 0.875801413776
+[ActiveClean Real] Accuracy  5150 0.875308236068
+[ActiveClean Real] Accuracy  5200 0.877363143186
+[ActiveClean Real] Accuracy  5250 0.876623376623
+[ActiveClean Real] Accuracy  5300 0.877938517179
+[ActiveClean Real] Accuracy  5350 0.878349498603
+[ActiveClean Real] Accuracy  5400 0.87917146145
+[ActiveClean Real] Accuracy  5450 0.878431694887
+[ActiveClean Real] Accuracy  5500 0.878349498603
+[ActiveClean Real] Accuracy  5550 0.877856320894
+[ActiveClean Real] Accuracy  5600 0.878924872596
+[ActiveClean Real] Accuracy  5650 0.879582442874
+[ActiveClean Real] Accuracy  5700 0.881555153707
+[ActiveClean Real] Accuracy  5750 0.879500246589
+[ActiveClean Real] Accuracy  5800 0.880897583429
+[ActiveClean Real] Accuracy  5850 0.878020713464
+[ActiveClean Real] Accuracy  5900 0.883610060825
+[ActiveClean Real] Accuracy  5950 0.879664639158
+[ActiveClean Real] Accuracy  6000 0.878349498603
+[ActiveClean Real] Accuracy  6050 0.879746835443
+[ActiveClean Real] Accuracy  6100 0.873499917804
+[ActiveClean Real] Accuracy  6150 0.875801413776
+[ActiveClean Real] Accuracy  6200 0.876952161762
+[ActiveClean Real] Accuracy  6250 0.878678283742
+[ActiveClean Real] Accuracy  6300 0.879829031728
+[ActiveClean Real] Accuracy  6350 0.880322209436
+[ActiveClean Real] Accuracy  6400 0.879746835443
+[ActiveClean Real] Accuracy  6450 0.881144172283
+[ActiveClean Real] Accuracy  6500 0.881061975999
+[ActiveClean Real] Accuracy  6550 0.883445668256
+[ActiveClean Real] Accuracy  6600 0.88229492027
+[ActiveClean Real] Accuracy  6650 0.882952490547
+[ActiveClean Real] Accuracy  6700 0.881061975999
+[ActiveClean Real] Accuracy  6750 0.883199079402
+[ActiveClean Real] Accuracy  6800 0.882212723985
+[ActiveClean Real] Accuracy  6850 0.88369225711
+[ActiveClean Real] Accuracy  6900 0.8821305277
+[Retraining] Accuracy  50 0.732122308072
+[Retraining] Accuracy  100 0.729409830676
+[Retraining] Accuracy  150 0.728998849252
+[Retraining] Accuracy  200 0.726943942134
+[Retraining] Accuracy  250 0.726368568141
+[Retraining] Accuracy  300 0.727765904981
+[Retraining] Accuracy  350 0.72669735328
+[Retraining] Accuracy  400 0.730396186092
+[Retraining] Accuracy  450 0.729574223245
+[Retraining] Accuracy  500 0.725875390432
+[Retraining] Accuracy  550 0.724395857307
+[Retraining] Accuracy  600 0.722587539043
+[Retraining] Accuracy  650 0.720779220779
+[Retraining] Accuracy  700 0.721190202203
+[Retraining] Accuracy  750 0.722258753904
+[Retraining] Accuracy  800 0.721190202203
+[Retraining] Accuracy  850 0.720532631925
+[Retraining] Accuracy  900 0.719957257932
+[Retraining] Accuracy  950 0.718477724807
+[Retraining] Accuracy  1000 0.719875061647
+[Retraining] Accuracy  1050 0.721436791057
+[Retraining] Accuracy  1100 0.721518987342
+[Retraining] Accuracy  1150 0.720697024494
+[Retraining] Accuracy  1200 0.723656090745
+[Retraining] Accuracy  1250 0.724889035016
+[Retraining] Accuracy  1300 0.725546605293
+[Retraining] Accuracy  1350 0.726450764425
+[Retraining] Accuracy  1400 0.726039783002
+[Retraining] Accuracy  1450 0.732697682065
+[Retraining] Accuracy  1500 0.732697682065
+[Retraining] Accuracy  1550 0.733848430051
+[Retraining] Accuracy  1600 0.734670392898
+[Retraining] Accuracy  1650 0.736067729739
+[Retraining] Accuracy  1700 0.737054085155
+[Retraining] Accuracy  1750 0.737711655433
+[Retraining] Accuracy  1800 0.738944599704
+[Retraining] Accuracy  1850 0.742232451093
+[Retraining] Accuracy  1900 0.74305441394
+[Retraining] Accuracy  1950 0.742314647378
+[Retraining] Accuracy  2000 0.742972217656
+[Retraining] Accuracy  2050 0.7416570771
+[Retraining] Accuracy  2100 0.742150254808
+[Retraining] Accuracy  2150 0.741492684531
+[Retraining] Accuracy  2200 0.74009534769
+[Retraining] Accuracy  2250 0.740917310538
+[Retraining] Accuracy  2300 0.74305441394
+[Retraining] Accuracy  2350 0.74305441394
+[Retraining] Accuracy  2400 0.743301002795
+[Retraining] Accuracy  2450 0.743958573072
+[Retraining] Accuracy  2500 0.742725628802
+[Retraining] Accuracy  2550 0.744205161927
+[Retraining] Accuracy  2600 0.745027124774
+[Retraining] Accuracy  2650 0.743383199079
+[Retraining] Accuracy  2700 0.74478053592
+[Retraining] Accuracy  2750 0.744533947066
+[Retraining] Accuracy  2800 0.744040769357
+[Retraining] Accuracy  2850 0.744205161927
+[Retraining] Accuracy  2900 0.747082031892
+[Retraining] Accuracy  2950 0.745438106198
+[Retraining] Accuracy  3000 0.746260069045
+[Retraining] Accuracy  3050 0.747246424462
+[Retraining] Accuracy  3100 0.748397172448
+[Retraining] Accuracy  3150 0.746753246753
+[Retraining] Accuracy  3200 0.747986191024
+[Retraining] Accuracy  3250 0.748150583594
+[Retraining] Accuracy  3300 0.747082031892
+[Retraining] Accuracy  3350 0.747657405885
+[Retraining] Accuracy  3400 0.748397172448
+[Retraining] Accuracy  3450 0.748890350156
+[Retraining] Accuracy  3500 0.750369883281
+[Retraining] Accuracy  3550 0.749794509288
+[Retraining] Accuracy  3600 0.750205490712
+[Retraining] Accuracy  3650 0.748314976163
+[Retraining] Accuracy  3700 0.748808153871
+[Retraining] Accuracy  3750 0.752013808976
+[Retraining] Accuracy  3800 0.751027453559
+[Retraining] Accuracy  3850 0.751849416406
+[Retraining] Accuracy  3900 0.751931612691
+[Retraining] Accuracy  3950 0.752671379254
+[Retraining] Accuracy  4000 0.75365773467
+[Retraining] Accuracy  4050 0.752753575538
+[Retraining] Accuracy  4100 0.753411145816
+[Retraining] Accuracy  4150 0.75521946408
+[Retraining] Accuracy  4200 0.757685352622
+[Retraining] Accuracy  4250 0.758918296893
+[Retraining] Accuracy  4300 0.761959559428
+[Retraining] Accuracy  4350 0.76286371856
+[Retraining] Accuracy  4400 0.762452737136
+[Retraining] Accuracy  4450 0.764096662831
+[Retraining] Accuracy  4500 0.7642610554
+[Retraining] Accuracy  4550 0.763439092553
+[Retraining] Accuracy  4600 0.764507644254
+[Retraining] Accuracy  4650 0.765411803386
+[Retraining] Accuracy  4700 0.765247410817
+[Retraining] Accuracy  4750 0.765904981095
+[Retraining] Accuracy  4800 0.765740588525
+[Retraining] Accuracy  4850 0.766973532796
+[Retraining] Accuracy  4900 0.765904981095
+[Retraining] Accuracy  4950 0.766315962518
+[Retraining] Accuracy  5000 0.76738451422
+[Retraining] Accuracy  5050 0.768042084498
+[Retraining] Accuracy  5100 0.768699654776
+[Retraining] Accuracy  5150 0.770096991616
+[Retraining] Accuracy  5200 0.769603813908
+[Retraining] Accuracy  5250 0.770754561894
+[Retraining] Accuracy  5300 0.772398487588
+[Retraining] Accuracy  5350 0.774124609568
+[Retraining] Accuracy  5400 0.774042413283
+[Retraining] Accuracy  5450 0.773631431859
+[Retraining] Accuracy  5500 0.772398487588
+[Retraining] Accuracy  5550 0.77330264672
+[Retraining] Accuracy  5600 0.774289002137
+[Retraining] Accuracy  5650 0.774617787276
+[Retraining] Accuracy  5700 0.774371198422
+[Retraining] Accuracy  5750 0.772891665297
+[Retraining] Accuracy  5800 0.7750287687
+[Retraining] Accuracy  5850 0.774371198422
+[Retraining] Accuracy  5900 0.774535590991
+[Retraining] Accuracy  5950 0.772316291304
+[Retraining] Accuracy  6000 0.775275357554
+[Retraining] Accuracy  6050 0.773713628144
+[Retraining] Accuracy  6100 0.77486437613
+[Retraining] Accuracy  6150 0.776261712971
+[Retraining] Accuracy  6200 0.776343909255
+[Retraining] Accuracy  6250 0.777494657241
+[Retraining] Accuracy  6300 0.778645405228
+[Retraining] Accuracy  6350 0.778727601512
+[Retraining] Accuracy  6400 0.77938517179
+[Retraining] Accuracy  6450 0.780124938353
+[Retraining] Accuracy  6500 0.779138582936
+[Retrainin[ActiveClean Real] Accuracy  50 0.712593923554
+[ActiveClean Real] Accuracy  100 0.713002286834
+[ActiveClean Real] Accuracy  150 0.796798431885
+[ActiveClean Real] Accuracy  200 0.792224763149
+[ActiveClean Real] Accuracy  250 0.790101274093
+[ActiveClean Real] Accuracy  300 0.794756615485
+[ActiveClean Real] Accuracy  350 0.798758575629
+[ActiveClean Real] Accuracy  400 0.798350212349
+[ActiveClean Real] Accuracy  450 0.801943809213
+[ActiveClean Real] Accuracy  500 0.813868016988
+[ActiveClean Real] Accuracy  550 0.816808232604
+[ActiveClean Real] Accuracy  600 0.81688990526
+[ActiveClean Real] Accuracy  650 0.8201568115
+[ActiveClean Real] Accuracy  700 0.823015354459
+[ActiveClean Real] Accuracy  750 0.827507350539
+[ActiveClean Real] Accuracy  800 0.834449526299
+[ActiveClean Real] Accuracy  850 0.834531198955
+[ActiveClean Real] Accuracy  900 0.834776216923
+[ActiveClean Real] Accuracy  950 0.833387781771
+[ActiveClean Real] Accuracy  1000 0.831509310683
+[ActiveClean Real] Accuracy  1050 0.823015354459
+[ActiveClean Real] Accuracy  1100 0.835919634107
+[ActiveClean Real] Accuracy  1150 0.83951323097
+[ActiveClean Real] Accuracy  1200 0.834612871611
+[ActiveClean Real] Accuracy  1250 0.840901666122
+[ActiveClean Real] Accuracy  1300 0.842126755962
+[ActiveClean Real] Accuracy  1350 0.840084939562
+[ActiveClean Real] Accuracy  1400 0.849558967658
+[ActiveClean Real] Accuracy  1450 0.849150604378
+[ActiveClean Real] Accuracy  1500 0.84849722313
+[ActiveClean Real] Accuracy  1550 0.847108787978
+[ActiveClean Real] Accuracy  1600 0.845557007514
+[ActiveClean Real] Accuracy  1650 0.843106827834
+[ActiveClean Real] Accuracy  1700 0.850212348906
+[ActiveClean Real] Accuracy  1750 0.852417510617
+[ActiveClean Real] Accuracy  1800 0.853560927801
+[ActiveClean Real] Accuracy  1850 0.850457366874
+[ActiveClean Real] Accuracy  1900 0.852172492649
+[ActiveClean Real] Accuracy  1950 0.855847762169
+[ActiveClean Real] Accuracy  2000 0.855684416857
+[ActiveClean Real] Accuracy  2050 0.853969291081
+[ActiveClean Real] Accuracy  2100 0.854132636393
+[ActiveClean Real] Accuracy  2150 0.855847762169
+[ActiveClean Real] Accuracy  2200 0.859849722313
+[ActiveClean Real] Accuracy  2250 0.861074812153
+[ActiveClean Real] Accuracy  2300 0.861728193401
+[ActiveClean Real] Accuracy  2350 0.860829794185
+[ActiveClean Real] Accuracy  2400 0.862054884025
+[ActiveClean Real] Accuracy  2450 0.862871610585
+[ActiveClean Real] Accuracy  2500 0.862626592617
+[ActiveClean Real] Accuracy  2550 0.864015027769
+[ActiveClean Real] Accuracy  2600 0.866710225417
+[ActiveClean Real] Accuracy  2650 0.864423391049
+[ActiveClean Real] Accuracy  2700 0.863524991833
+[ActiveClean Real] Accuracy  2750 0.864096700425
+[ActiveClean Real] Accuracy  2800 0.863851682457
+[ActiveClean Real] Accuracy  2850 0.864505063705
+[ActiveClean Real] Accuracy  2900 0.865730153545
+[ActiveClean Real] Accuracy  2950 0.865076772297
+[ActiveClean Real] Accuracy  3000 0.866301862137
+[ActiveClean Real] Accuracy  3050 0.867281934008
+[ActiveClean Real] Accuracy  3100 0.867200261352
+[ActiveClean Real] Accuracy  3150 0.866301862137
+[ActiveClean Real] Accuracy  3200 0.865076772297
+[ActiveClean Real] Accuracy  3250 0.866301862137
+[ActiveClean Real] Accuracy  3300 0.867690297288
+[ActiveClean Real] Accuracy  3350 0.868507023848
+[ActiveClean Real] Accuracy  3400 0.869242077752
+[ActiveClean Real] Accuracy  3450 0.869242077752
+[ActiveClean Real] Accuracy  3500 0.87071218556
+[ActiveClean Real] Accuracy  3550 0.871365566808
+[ActiveClean Real] Accuracy  3600 0.872182293368
+[ActiveClean Real] Accuracy  3650 0.8719372754
+[ActiveClean Real] Accuracy  3700 0.872917347272
+[ActiveClean Real] Accuracy  3750 0.873734073832
+[ActiveClean Real] Accuracy  3800 0.872999019928
+[ActiveClean Real] Accuracy  3850 0.873080692584
+[ActiveClean Real] Accuracy  3900 0.872182293368
+[ActiveClean Real] Accuracy  3950 0.871447239464
+[ActiveClean Real] Accuracy  4000 0.87152891212
+[ActiveClean Real] Accuracy  4050 0.872590656648
+[ActiveClean Real] Accuracy  4100 0.873325710552
+[ActiveClean Real] Accuracy  4150 0.872999019928
+[ActiveClean Real] Accuracy  4200 0.875040836328
+[ActiveCl[SampleClean] Accuracy  0 0.782776138971
+[SampleClean] Accuracy  50 0.783841363487
+[SampleClean] Accuracy  100 0.78408718453
+[SampleClean] Accuracy  150 0.784005244182
+[SampleClean] Accuracy  200 0.78343166175
+[SampleClean] Accuracy  250 0.783841363487
+[SampleClean] Accuracy  300 0.784005244182
+[SampleClean] Accuracy  350 0.78408718453
+[SampleClean] Accuracy  400 0.784169124877
+[SampleClean] Accuracy  450 0.78408718453
+[SampleClean] Accuracy  500 0.78408718453
+[SampleClean] Accuracy  550 0.784660766962
+[SampleClean] Accuracy  600 0.784824647657
+[SampleClean] Accuracy  650 0.784906588004
+[SampleClean] Accuracy  700 0.785398230088
+[SampleClean] Accuracy  750 0.786709275647
+[SampleClean] Accuracy  800 0.788511963291
+[SampleClean] Accuracy  850 0.790068829892
+[SampleClean] Accuracy  900 0.792117338578
+[SampleClean] Accuracy  950 0.794411668305
+[SampleClean] Accuracy  1000 0.794985250737
+[SampleClean] Accuracy  1050 0.794739429695
+[SampleClean] Accuracy  1100 0.794575549
+[SampleClean] Accuracy  1150 0.796542117339
+[SampleClean] Accuracy  1200 0.802605703048
+[SampleClean] Accuracy  1250 0.80031137332
+[SampleClean] Accuracy  1300 0.805965257293
+[SampleClean] Accuracy  1350 0.804162569649
+[SampleClean] Accuracy  1400 0.80604719764
+[SampleClean] Accuracy  1450 0.80637495903
+[SampleClean] Accuracy  1500 0.807440183546
+[SampleClean] Accuracy  1550 0.808505408063
+[SampleClean] Accuracy  1600 0.811701081613
+[SampleClean] Accuracy  1650 0.810717797443
+[SampleClean] Accuracy  1700 0.816781383153
+[SampleClean] Accuracy  1750 0.815470337594
+[SampleClean] Accuracy  1800 0.81784660767
+[SampleClean] Accuracy  1850 0.818584070796
+[SampleClean] Accuracy  1900 0.815798098984
+[SampleClean] Accuracy  1950 0.821206161914
+[SampleClean] Accuracy  2000 0.819895116355
+[SampleClean] Accuracy  2050 0.820140937398
+[SampleClean] Accuracy  2100 0.821042281219
+[SampleClean] Accuracy  2150 0.823090789905
+[SampleClean] Accuracy  2200 0.827843330056
+[SampleClean] Accuracy  2250 0.829072435267
+[SampleClean] Accuracy  2300 0.82899049492
+[SampleClean] Accuracy  2350 0.83185840708
+[SampleClean] Accuracy  2400 0.830137659784
+[SampleClean] Accuracy  2450 0.830875122911
+[SampleClean] Accuracy  2500 0.835381842019
+[SampleClean] Accuracy  2550 0.834972140282
+[SampleClean] Accuracy  2600 0.83661094723
+[SampleClean] Accuracy  2650 0.835955424451
+[SampleClean] Accuracy  2700 0.840626024254
+[SampleClean] Accuracy  2750 0.841035725991
+[SampleClean] Accuracy  2800 0.838823336611
+[SampleClean] Accuracy  2850 0.838823336611
+[SampleClean] Accuracy  2900 0.838659455916
+[SampleClean] Accuracy  2950 0.838413634874
+[SampleClean] Accuracy  3000 0.842920353982
+[SampleClean] Accuracy  3050 0.840544083907
+[SampleClean] Accuracy  3100 0.840789904949
+[SampleClean] Accuracy  3150 0.843657817109
+[SampleClean] Accuracy  3200 0.842756473287
+[SampleClean] Accuracy  3250 0.844313339889
+[SampleClean] Accuracy  3300 0.84267453294
+[SampleClean] Accuracy  3350 0.843411996067
+[SampleClean] Accuracy  3400 0.843084234677
+[SampleClean] Accuracy  3450 0.843903638151
+[SampleClean] Accuracy  3500 0.846525729269
+[SampleClean] Accuracy  3550 0.847918715175
+[SampleClean] Accuracy  3600 0.845050803015
+[SampleClean] Accuracy  3650 0.847017371354
+[SampleClean] Accuracy  3700 0.848656178302
+[SampleClean] Accuracy  3750 0.850786627335
+[SampleClean] Accuracy  3800 0.849967223861
+[SampleClean] Accuracy  3850 0.849229760734
+[SampleClean] Accuracy  3900 0.852015732547
+[SampleClean] Accuracy  3950 0.850294985251
+[SampleClean] Accuracy  4000 0.852917076368
+[SampleClean] Accuracy  4050 0.856030809571
+[SampleClean] Accuracy  4100 0.853572599148
+[SampleClean] Accuracy  4150 0.852999016716
+[SampleClean] Accuracy  4200 0.853326778106
+[SampleClean] Accuracy  4250 0.854883644707
+[SampleClean] Accuracy  4300 0.855293346444
+[SampleClean] Accuracy  4350 0.856604392003
+[SampleClean] Accuracy  4400 0.858734841036
+[SampleClean] Accuracy  4450 0.857997377909
+[SampleClean] Accuracy  4500 0.858161258604
+[SampleClean] Accuracy  4550 0.860701409374
+[SampleClean] Accuracy  4600 0.859718125205
+[SampleClean] Accuracy  4650 0.858980662078
+[SampleClean] Accuracy  4700 0.860947230416
+[SampleClean] Accuracy  4750 0.862340216323
+[SampleClean] Accuracy  4800 0.861930514585
+[SampleClean] Accuracy  4850 0.86242215667
+[SampleClean] Accuracy  4900 0.864060963618
+[SampleClean] Accuracy  4950 0.865372009177
+[SampleClean] Accuracy  5000 0.867256637168
+[SampleClean] Accuracy  5050 0.86529006883
+[SampleClean] Accuracy  5100 0.865453949525
+[SampleClean] Accuracy  5150 0.865535889872
+[SampleClean] Accuracy  5200 0.866191412652
+[SampleClean] Accuracy  5250 0.868813503769
+[SampleClean] Accuracy  5300 0.869059324812
+[SampleClean] Accuracy  5350 0.87102589315
+[SampleClean] Accuracy  5400 0.867994100295
+[SampleClean] Accuracy  5450 0.871599475582
+[SampleClean] Accuracy  5500 0.871845296624
+[SampleClean] Accuracy  5550 0.870780072108
+[SampleClean] Accuracy  5600 0.870862012455
+[SampleClean] Accuracy  5650 0.871517535234
+[SampleClean] Accuracy  5700 0.871435594887
+[SampleClean] Accuracy  5750 0.870780072108
+[SampleClean] Accuracy  5800 0.872254998361
+[SampleClean] Accuracy  5850 0.867584398558
+[SampleClean] Accuracy  5900 0.869714847591
+[SampleClean] Accuracy  5950 0.870534251065
+[SampleClean] Accuracy  6000 0.870042608981
+[SampleClean] Accuracy  6050 0.87102589315
+[SampleClean] Accuracy  6100 0.87037037037
+[SampleClean] Accuracy  6150 0.870042608981
+[SampleClean] Accuracy  6200 0.869059324812
+[SampleClean] Accuracy  6250 0.870534251065
+[SampleClean] Accuracy  6300 0.871763356277
+[SampleClean] Accuracy  6350 0.872418879056
+[SampleClean] Accuracy  6400 0.872091117666
+[SampleClean] Accuracy  6450 0.872173058014
+[SampleClean] Accuracy  6500 0.871435594887
+[SampleClean] Accuracy  6550 0.872664700098
+[SampleClean] Accuracy  6600 0.873811864962
+[SampleClean] Accuracy  6650 0.874959029826
+[SampleClean] Accuracy  6700 0.875368731563
+[SampleClean] Accuracy  6750 0.873975745657
+[SampleClean] Accuracy  6800 0.874057686005
+[SampleClean] Accuracy  6850 0.874303507047
+[SampleClean] Accuracy  6900 0.874467387742
+[SampleClean] Accuracy  6950 0.873484103573
+[SampleClean] Accuracy  7000 0.874631268437
+[SampleClean] Accuracy  7050 0.872992461488
+[SampleClean] Accuracy  7100 0.874057686005
+[SampleClean] Accuracy  7150 0.873975745657
+[SampleClean] Accuracy  7200 0.874303507047
+[SampleClean] Accuracy  7250 0.873811864962
+[SampleClean] Accuracy  7300 0.875122910521
+[SampleClean] Accuracy  7350 0.875040970174
+[SampleClean] Accuracy  7400 0.874713208784
+[SampleClean] Accuracy  7450 0.874713208784
+[SampleClean] Accuracy  7500 0.87610619469
+[SampleClean] Accuracy  7550 0.875450671911
+[SampleClean] Accuracy  7600 0.876515896427
+[SampleClean] Accuracy  7650 0.877663061291
+[SampleClean] Accuracy  7700 0.876352015733
+[SampleClean] Accuracy  7750 0.876679777122
+[SampleClean] Accuracy  7800 0.875532612258
+[SampleClean] Accuracy  7850 0.875368731563
+[SampleClean] Accuracy  7900 0.875614552606
+[SampleClean] Accuracy  7950 0.87643395608
+[SampleClean] Accuracy  8000 0.87676171747
+[SampleClean] Accuracy  8050 0.877007538512
+[SampleClean] Accuracy  8100 0.876024254343
+[SampleClean] Accuracy  8150 0.877826941986
+[SampleClean] Accuracy  8200 0.87676171747
+[SampleClean] Accuracy  8250 0.876515896427
+[SampleClean] Accuracy  8300 0.878236643723
+[SampleClean] Accuracy  8350 0.877663061291
+[SampleClean] Accuracy  8400 0.878236643723
+[SampleClean] Accuracy  8450 0.879056047198
+[SampleClean] Accuracy  8500 0.879056047198
+[SampleClean] Accuracy  8550 0.879137987545
+[SampleClean] Accuracy  8600 0.880121271714
+[SampleClean] Accuracy  8650 0.878482464766
+[SampleClean] Accuracy  8700 0.878646345461
+[SampleClean] Accuracy  8750 0.879711569977
+[SampleClean] Accuracy  8800 0.880203212062
+[SampleClean] Accuracy  8850 0.879793510324
+[SampleClean] Accuracy  8900 0.880367092756
+[SampleClean] Accuracy  8950 0.879957391019
+[SampleClean] Accuracy  9000 0.880121271714
+[SampleClean] Accuracy  9050 0.880121271714
+[SampleClean] Accuracy  9100 0.879465748935
+[SampleClean] Accuracy  9150 0.880694854146
+[SampleClean] Accuracy  9200 0.880121271714
+[SampleClean] Accuracy  9250 0.880694854146
+[SampleClean] Accuracy  9300 0.87962962963
+[SampleClean] Accuracy  9350 0.880367092756
+[SampleClean] Accuracy  9400 0.880694854146
+[SampleClean] Accuracy  9450 0.880203212062
+[SampleClean] Accuracy  9500 0.880858734841
+[SampleClean] Accuracy  9550 0.880694854146
+[SampleClean] Accuracy  9600 0.87897410685
+[SampleClean] Accuracy  9650 0.879793510324
+[SampleClean] Accuracy  9700 0.878400524418
+[SampleClean] Accuracy  9750 0.87962962963
+[SampleClean] Accuracy  9800 0.878564405113
+[SampleClean] Accuracy  9850 0.879875450672
+[SampleClean] Accuracy  9900 0.879711569977
+[SampleClean] Accuracy  9950 0.879793510324
