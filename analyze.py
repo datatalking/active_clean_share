@@ -89,7 +89,7 @@ def data_to_features(data, label1='Comedy', label2='Horror'):
 
 
 print('---Without Data Cleaning---')
-ydata = load_y_data()
+ydata = load_y_data() # FIXME     dataset.append((comps[1], comps[2], comps[10].split(b'|'))) IndexError: list index out of range
 idata = load_i_data()
 data = cross_reference(ydata,idata)
 X,y = data_to_features(data)
